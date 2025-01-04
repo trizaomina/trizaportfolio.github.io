@@ -1,8 +1,6 @@
 @charset "UTF-8";
 /* =================================================================== 
- * Mueller Main Stylesheet
- * Template Ver. 1.0.0
- * 06-21-2022
+ * 
  * ------------------------------------------------------------------
  *
  * TOC:
@@ -234,17 +232,17 @@
      * ratio 1:2 | base: 18px
      * -------------------------------------------------------
      *
-     * --text-display-3 = (77.40px)
-     * --text-display-2 = (64.50px)
-     * --text-display-1 = (53.75px)
-     * --text-xxxl      = (44.79px)
-     * --text-xxl       = (37.32px)
-     * --text-xl        = (31.10px)
-     * --text-lg        = (25.92px)
-     * --text-md        = (21.60px)
-     * --text-size      = (18.00px) BASE
-     * --text-sm        = (15.00px)
-     * --text-xs        = (12.50px)
+     * --text-display-3 = (70.40px)
+     * --text-display-2 = (60.50px)
+     * --text-display-1 = (50.75px)
+     * --text-xxxl      = (40.79px)
+     * --text-xxl       = (33.32px)
+     * --text-xl        = (30.10px)
+     * --text-lg        = (20.92px)
+     * --text-md        = (15.60px)
+     * --text-size      = (14.00px) BASE
+     * --text-sm        = (12.00px)
+     * --text-xs        = (10.50px)
      *
      * ---------------------------------------------------------
      */
